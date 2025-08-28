@@ -1,3 +1,4 @@
 # Animação mensagem / notificação
 
-https://github.com/user-attachments/assets/7b7af898-1f5a-4c2b-87a9-87e8d5b33823
+<img width="712" height="421" alt="Image" src="https://github.com/user-attachments/assets/85530a20-37fb-4e9c-8e22-583ed729b627" />
+
